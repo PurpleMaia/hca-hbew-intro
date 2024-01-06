@@ -36,4 +36,31 @@ for a house.
 - [ ] Scuba Diving
 - [x] Shopping
 
+## Lesson 1 - Are you ready to buy a home (3)
+
+Each member of the family \_\_\_\_\_\_ to understand that \_\_\_\_\_\_ will need to be \_\_\_\_\_\_ if they are to
+purchase and own their own home.
+
+- [ ] rich
+- [x] needs
+- [ ] Michael Jordan
+- [x] sacrifices
+- [ ] hoops
+- [x] made
+- [ ] jumped
+
+## Lesson 1 - Are you ready to buy a home (4)
+
+It is important for all \_\_\_\_\_\_ of the \_\_\_\_\_\_ who will be living in the home to have a place at the table
+for discussion, so that \_\_\_\_\_\_ member has a voice in making the decision.
+
+- [ ] world
+- [ ] rich
+- [x] members
+- [x] family
+- [ ] coconuts
+- [ ] hoops
+- [x] each
+- [ ] siblings
+
       {{< /quizdown >}}
