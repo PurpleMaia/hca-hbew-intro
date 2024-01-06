@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-relearn"
+
+[minify]
+  disableHTML = true
+
+[params]
+disableSearch = true
