@@ -9,4 +9,5 @@ theme = ["hugo-video","hugo-theme-relearn"]
   disableHTML = true
 
 [params]
-disableSearch = true
+  disableSearch = true
+  themeVariant = "zen-auto"
