@@ -10,4 +10,4 @@ theme = ["hugo-video","hugo-theme-relearn"]
 
 [params]
   disableSearch = true
-  themeVariant = "zen-auto"
+  themeVariant = [{ identifier = "zen-auto", name = "Zen Light/Dark", auto = [ "zen-light", "zen-dark" ] }]
